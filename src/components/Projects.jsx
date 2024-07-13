@@ -6,7 +6,7 @@ function Project(){
     return(
         <div className="projects fit">
             <h2 style={{textAlign:"left"}}>Projects</h2>
-            <div className="project">
+            <div className="project ani">
                 <div className="head-text">
                      <h2 className="heading">This is Project heading</h2>
                      <p className="subheading">This is small heading</p>
@@ -29,7 +29,7 @@ function Project(){
                     </div>
                 </div>    
             </div>
-            <div className="project">
+            <div className="project ani">
                 <div className="head-text">
                      <h2 className="heading">This is Project heading</h2>
                      <p className="subheading">This is small heading</p>
@@ -52,7 +52,7 @@ function Project(){
                     </div>
                 </div>  
             </div>
-              <div className="project">
+              <div className="project ani">
                 <div className="head-text">
                      <h2 className="heading">This is Project heading</h2>
                      <p className="subheading">This is small heading</p>

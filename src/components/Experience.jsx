@@ -3,7 +3,7 @@
 function Experience(){
     return(
         <div className="experiences fit">
-            <div className="experience">
+            <div className="experience ani">
                 <div className="head-text">
                      <h2 className="heading">Student Mentor</h2>
                      <p className="subheading">Inter | Kokrajhar, Assam, India | May, 2024</p>
@@ -26,7 +26,7 @@ function Experience(){
                     </div>
                 </div>    
             </div>
-            <div className="experience">
+            <div className="experience ani">
                 <div className="head-text">
                      <h2 className="heading">Student Mentor</h2>
                      <p className="subheading">Inter | Kokrajhar, Assam, India | May, 2024</p>

@@ -3,20 +3,20 @@ import ProfileImage from '../assets/profile.jpg'
 function Cont(){
    return(
      <div className="cont fit">
-           <div className="profile">
+           <div className="profile ani">
                 <img className="photo" src={ProfileImage} alt="ProfilePhoto" />
-                <text className="desc">
+                <span className="desc">
                     <b>Don Basumatary</b>
                     <br />
                     <span>Mathematics and Computing</span>
                      <br />
                     <span>BTech, IIT Guwahati</span>
-                </text>
+                </span>
                 <br /><br /><br />
                 <section className='contact-list'>
                      <span><i className="fa-brands fa-google"></i>&nbsp;&nbsp;&nbsp;donbasty375@gmail.com</span>
                      <br /><br />
-                     <span><i class="fa-solid fa-briefcase"></i>&nbsp;&nbsp;&nbsp;b.don@iitg.ac.in</span>
+                     <span><i className="fa-solid fa-briefcase"></i>&nbsp;&nbsp;&nbsp;b.don@iitg.ac.in</span>
                      <br /><br />
                      <span><i className="fa-solid fa-phone"></i>&nbsp;&nbsp;&nbsp;+91-6000846891</span>
                      <br /><br />
