@@ -15,5 +15,11 @@
   <body>
     <div id="root"></div>
     <script type="module" src="/src/main.jsx"></script>
+    <script type="text/javascript">
+      if (document.location.pathname !== '/') {
+        document.location.href = '/#' + document.location.pathname;
+      }
+    </script>
+    
   </body>
 </html>
