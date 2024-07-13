@@ -20,10 +20,10 @@ function Cont(){
                      <br /><br />
                      <span><i className="fa-solid fa-phone"></i>&nbsp;&nbsp;&nbsp;+91-6000846891</span>
                      <br /><br />
-                     <span><i className="fa-brands fa-linkedin"></i>&nbsp;&nbsp;&nbsp;<a href="">Linkedin</a></span>
+                     <span><i className="fa-brands fa-linkedin"></i>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/donbasty15/">Linkedin</a></span>
 
                      <br /><br />
-                     <span><i className="fa-brands fa-github"></i>&nbsp;&nbsp;&nbsp;<a href="github">Github</a></span>
+                     <span><i className="fa-brands fa-github"></i>&nbsp;&nbsp;&nbsp;<a href="https://github.com/donbasu15">Github</a></span>
 
                 </section>
             </div>
